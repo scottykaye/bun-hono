@@ -1,2 +1,4 @@
-# bun-hono
-Bun and hono app
+```sh
+bun install
+bun dev
+```
